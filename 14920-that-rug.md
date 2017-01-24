@@ -9,3 +9,5 @@ Bowling begins tonight, so naturally, Lebowski comes to mind. Bowling isn't exac
 Or something like that. Nothing a few spins around the park can't fix.
 
 Bowling on the other hand is a good way to unwind.
+
+See a typo? Send me a [pull-request](https://github.com/micahwalter/blogs-14920-that-rug)!
